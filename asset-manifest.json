@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Rashi-ecolooms/static/css/main.d9258cec.css",
-    "main.js": "/Rashi-ecolooms/static/js/main.8df4ce49.js",
-    "static/js/453.e64d103f.chunk.js": "/Rashi-ecolooms/static/js/453.e64d103f.chunk.js",
-    "index.html": "/Rashi-ecolooms/index.html",
-    "main.d9258cec.css.map": "/Rashi-ecolooms/static/css/main.d9258cec.css.map",
-    "main.8df4ce49.js.map": "/Rashi-ecolooms/static/js/main.8df4ce49.js.map",
-    "453.e64d103f.chunk.js.map": "/Rashi-ecolooms/static/js/453.e64d103f.chunk.js.map"
+    "main.css": "/rashi-ecolooms/static/css/main.d9258cec.css",
+    "main.js": "/rashi-ecolooms/static/js/main.d909dc62.js",
+    "static/js/453.e64d103f.chunk.js": "/rashi-ecolooms/static/js/453.e64d103f.chunk.js",
+    "index.html": "/rashi-ecolooms/index.html",
+    "main.d9258cec.css.map": "/rashi-ecolooms/static/css/main.d9258cec.css.map",
+    "main.d909dc62.js.map": "/rashi-ecolooms/static/js/main.d909dc62.js.map",
+    "453.e64d103f.chunk.js.map": "/rashi-ecolooms/static/js/453.e64d103f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9258cec.css",
-    "static/js/main.8df4ce49.js"
+    "static/js/main.d909dc62.js"
   ]
 }
