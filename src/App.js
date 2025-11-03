@@ -40,7 +40,7 @@ function App() {
       >
         <div className="flex items-center space-x-3 transition-all duration-300">
           <img
-            src="/assets/Rashi Ecolooms.png"
+            src={`${process.env.PUBLIC_URL}/assets/Rashi Ecolooms.png`}
             alt="Rashi Ecolooms Logo"
             className={`rounded-full object-cover transition-all duration-300 ${
               isScrolled ? "h-10 w-10" : "h-14 w-14"
@@ -143,7 +143,7 @@ function App() {
               className="bg-white p-6 rounded-2xl shadow-lg hover:shadow-2xl transition-transform transform hover:-translate-y-2"
             >
               <img
-                src={`/assets/${fabric.img}`}
+                src={`${process.env.PUBLIC_URL}/assets/${fabric.img}`}
                 alt={fabric.name}
                 className="h-52 w-full object-cover rounded-xl"
               />
