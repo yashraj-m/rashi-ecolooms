@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rashi-ecolooms/static/css/main.d9258cec.css",
+    "main.js": "/Rashi-ecolooms/static/js/main.8df4ce49.js",
+    "static/js/453.e64d103f.chunk.js": "/Rashi-ecolooms/static/js/453.e64d103f.chunk.js",
+    "index.html": "/Rashi-ecolooms/index.html",
+    "main.d9258cec.css.map": "/Rashi-ecolooms/static/css/main.d9258cec.css.map",
+    "main.8df4ce49.js.map": "/Rashi-ecolooms/static/js/main.8df4ce49.js.map",
+    "453.e64d103f.chunk.js.map": "/Rashi-ecolooms/static/js/453.e64d103f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9258cec.css",
+    "static/js/main.8df4ce49.js"
+  ]
+}
