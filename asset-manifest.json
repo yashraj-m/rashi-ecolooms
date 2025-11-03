@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/rashi-ecolooms/static/css/main.d9258cec.css",
-    "main.js": "/rashi-ecolooms/static/js/main.294cc097.js",
+    "main.js": "/rashi-ecolooms/static/js/main.a58f8030.js",
     "static/js/453.e64d103f.chunk.js": "/rashi-ecolooms/static/js/453.e64d103f.chunk.js",
+    "static/media/tencel.jpg": "/rashi-ecolooms/static/media/tencel.8c94b08bb0719ea39f8e.jpg",
+    "static/media/Rashi Ecolooms.png": "/rashi-ecolooms/static/media/Rashi Ecolooms.2f5d7cbb34d6ab95724c.png",
+    "static/media/hemp.jpg": "/rashi-ecolooms/static/media/hemp.3dfe2262e96c0577f135.jpg",
+    "static/media/organic-cotton.jpg": "/rashi-ecolooms/static/media/organic-cotton.7ebd6e248e8fc2dfbbb3.jpg",
     "index.html": "/rashi-ecolooms/index.html",
     "main.d9258cec.css.map": "/rashi-ecolooms/static/css/main.d9258cec.css.map",
-    "main.294cc097.js.map": "/rashi-ecolooms/static/js/main.294cc097.js.map",
+    "main.a58f8030.js.map": "/rashi-ecolooms/static/js/main.a58f8030.js.map",
     "453.e64d103f.chunk.js.map": "/rashi-ecolooms/static/js/453.e64d103f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9258cec.css",
-    "static/js/main.294cc097.js"
+    "static/js/main.a58f8030.js"
   ]
 }
